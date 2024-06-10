@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Pruebas unitarias con Mocha y Assert",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Neider Hamburger",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "2.1.0",
+    "mocha": "8.4.0"
+  }
+}
